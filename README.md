@@ -35,12 +35,9 @@ This AI-powered monitoring system transforms chaos into actionable insights:
   As organizations adopt microservices and cloud-native architectures, managing Kubernetes clusters becomes increasingly complex.  
   → _Our AI-powered monitoring cuts through this complexity by providing intelligent analysis rather than raw data dumps._
 
-- 🧠 **Skills Gap in DevOps**  
-  There’s a shortage of experienced Kubernetes engineers.  
-  → _This tool democratizes expertise by providing AI-powered insights that match senior SRE knowledge._
 
 - 💸 **Cost of Downtime**  
-  Average downtime costs exceed **$5,600 per minute**.  
+  Average downtime costs are too much**.  
   → _Faster incident detection and resolution directly impacts business revenue._
 
 - 🔕 **Alert Fatigue**  
